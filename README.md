@@ -1,3 +1,2 @@
 # react-random-contact-list
-React sample application
-Randers a random list of contacts
+React sample application. Renders a list of random contacts
