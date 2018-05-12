@@ -15,7 +15,7 @@ const paths = {
 };
 
 module.exports = {
-    //watch: true,
+    watch: true,
     cache: true,
     //devtool: 'cheap-module-eval-source-map',
     context: paths.srcPath,
